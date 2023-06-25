@@ -1,6 +1,6 @@
 import os
 
-a=0
-c=1
+a='divergencia adicional'
+c='otra divergencia'
 d=2
 e=3
