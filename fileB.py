@@ -1,3 +1,3 @@
 b=1
-c=2
-d=4
+c='Otra divergencia'
+d='Nueva divergencia'
