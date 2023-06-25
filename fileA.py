@@ -2,5 +2,5 @@ import os
 
 a=0
 b=1
-
-print(a+b)
+c=2
+print(a+b+c)
