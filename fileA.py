@@ -2,5 +2,5 @@ import os
 
 a='divergencia adicional'
 c='otra divergencia'
-d=2
+d='divergencia J'
 e=3
