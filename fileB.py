@@ -7,4 +7,4 @@ c='una divergencia en el mundo'
 d='un mundo divergente'
 >>>>>>> c27c253 (divergencia M)
 c=2
-d='Otra divergencia'
+d='Otra divergencia en el mundo'
